@@ -1,0 +1,2 @@
+-- test.lua
+print(a)
